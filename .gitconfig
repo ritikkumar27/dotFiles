@@ -1,0 +1,19 @@
+[user]
+	name = Ritik Kumar
+	email = rkv2771@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = micro
+[pull]
+	rebase = false
+[fetch]
+	prune = true
+[color]
+	ui = auto
+[alias]
+	st = status
+	br = branch
+	co = checkout
+	cm = commit
+	last = log -1 HEAD
