@@ -60,6 +60,7 @@ alias ff='fastfetch'
 
 # Specific aliases
 alias Tsrv3='tree /srv -L 3'
+alias gotodocker='cd /srv/docker'
 
 # Ctrl+Left / Ctrl+Right word movement
 bindkey "^[[1;5D" backward-word
