@@ -54,6 +54,7 @@ alias ports='ss -tulpn'
 alias df='df -h'
 alias free='free -h'
 alias cls='clear'
+alias ip='ip a'
 
 # Ctrl+Left / Ctrl+Right word movement
 bindkey "^[[1;5D" backward-word
