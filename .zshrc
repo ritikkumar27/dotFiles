@@ -26,10 +26,10 @@ source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # Aliases
-alias ll="eza -lah --icons"
-alias ls="eza --icons"
-alias la="eza -a --icons"
-alias lt="eza --tree --icons"
+alias ll="eza -lah --icons=auto"
+alias ls="eza --icons=auto"
+alias la="eza -a --icons=auto"
+alias lt="eza --tree --icons=auto"
 alias cat="batcat"
 
 alias ..="cd .."
