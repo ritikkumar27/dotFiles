@@ -55,6 +55,11 @@ alias df='df -h'
 alias free='free -h'
 alias cls='clear'
 alias ip='ip a'
+alias ff='fastfetch'
+
+
+# Specific aliases
+alias Tsrv3='tree /srv -L 3'
 
 # Ctrl+Left / Ctrl+Right word movement
 bindkey "^[[1;5D" backward-word
